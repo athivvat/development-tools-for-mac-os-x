@@ -1,6 +1,6 @@
 #Development Tools for Mac OS X
 
-Database Mangement
+####Database Mangement
 =================================
 + Navicat Premium (www.navicat.com)
 <br>a multi-connections database administration tool for MySQL, SQL Server, SQLite, Oracle & PostgreSQL.
@@ -9,7 +9,7 @@ Database Mangement
 <br>MySQL database management for Mac OS X
 
 
-Text Editor
+####Text Editor
 =================================
 + Sublime Text 3 (www.sublimetext.com)
 + Atom (https://atom.io)
