@@ -3,10 +3,10 @@
 Database Mangement
 =================================
 + Navicat Premium (www.navicat.com)
-a multi-connections database administration tool for MySQL, SQL Server, SQLite, Oracle & PostgreSQL.
+<br>a multi-connections database administration tool for MySQL, SQL Server, SQLite, Oracle & PostgreSQL.
 
 + Sequel Pro (www.sequelpro.com)
-MySQL database management for Mac OS X
+<br>MySQL database management for Mac OS X
 
 
 Text Editor
