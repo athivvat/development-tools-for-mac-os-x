@@ -8,6 +8,9 @@ Database Mangement
 + Sequel Pro (www.sequelpro.com)
 <br>MySQL database management for Mac OS X
 
++ Postico (https://eggerapps.at/postico/)
+<br>A Modern PostgreSQL Client for OS X
+
 
 Text Editor
 =================================
