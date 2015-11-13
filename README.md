@@ -11,6 +11,9 @@ Database Mangement
 + Postico (https://eggerapps.at/postico/)
 <br>A Modern PostgreSQL Client for OS X
 
++ pgAdmin (http://pgadmin.org/)
+<br>the official Open Source database client for PostgreSQL.
+
 
 Text Editor
 =================================
