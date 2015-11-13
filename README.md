@@ -19,3 +19,9 @@ Text Editor
 =================================
 + Sublime Text 3 (www.sublimetext.com)
 + Atom (https://atom.io)
+
+
+Terminal
+=================================
++ iTerm2 (https://www.iterm2.com/)
+<br>a Terminal emulator for Mac OS X that does amazing things.
